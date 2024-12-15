@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MANASMATHUR
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Data Structures and Algorithms with C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Structures and Algorithms 
+- 💞️ I’m looking to collaborate on Open Source AI projects
 - 📫 How to reach me ...
 
 <!---
