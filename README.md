@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MANASMATHUR
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Data Structures and Algorithms 
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning about LLM's
 - 💞️ I’m looking to collaborate on Open Source AI projects
-- 📫 How to reach me ...
+- 📫 How to reach me manasmathur1234@gmail.com
 
 <!---
 MANASMATHUR/MANASMATHUR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
