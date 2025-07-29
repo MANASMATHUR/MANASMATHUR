@@ -18,13 +18,6 @@
 - **Others**: Selenium, Power BI, Excel
 
 
-## 📫 How to Reach Me
-
-- 📧 manasmathur1234@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/manasmathur)
-
-
-
 ## 📊 GitHub Stats
 
 ![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANASMATHUR&show_icons=true&theme=tokyonight)  
