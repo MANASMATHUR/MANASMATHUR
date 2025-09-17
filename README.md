@@ -20,8 +20,8 @@
 
 ## 📊 GitHub Stats
 
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANASMATHUR&show_icons=true&theme=tokyonight&count_private=true&token=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)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANASMATHUR&layout=compact&theme=tokyonight&token=YOUR_TOKEN)
+![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANASMATHUR&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANASMATHUR&layout=compact&theme=tokyonight)
 
 
 <!---
