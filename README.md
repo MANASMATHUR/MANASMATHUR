@@ -4,7 +4,7 @@
 
 - 👀 Interested in building real-world AI applications  
 - 🌱 Currently learning and building with **LLMs, Agents, and RAG pipelines**  
-- 💞️ Open to collaborating on **open-source AI/ML projects**
+- 💞️ Open to collaborating 
 
 
 ## 🛠️ Tech Stack
