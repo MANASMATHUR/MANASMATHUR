@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 👀 Interested in building real-world AI applications  
-- 🌱 Currently learning and building with **LLMs, Agents, and RAG pipelines**  
+- 🌱 Currently learning and building with **Agentic AI**  
 - 💞️ Open to collaborating 
 
 
