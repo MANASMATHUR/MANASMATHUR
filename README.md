@@ -4,7 +4,7 @@
 
 - 👀 Interested in building real-world AI applications  
 - 🌱 Currently learning and building with **Agentic AI**  
-- 💞️ Open to collaborating 
+- 💞️ Open to collaborating on open source projects
 
 
 ## 🛠️ Tech Stack
