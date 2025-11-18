@@ -9,13 +9,13 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, SQL, JavaScript , TypeScript
+- **Languages**: Java , Python, SQL, JavaScript , TypeScript
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, HuggingFace Transformers  
-- **LLMs & Frameworks**: LangChain, CrewAI, FastAPI, Flask, OpenAI, Gemini, Groq 
+- **Frameworks**: LangChain, CrewAI, Next.js, Node.js 
 - **Frontend**: React.js, TailwindCSS, ShadCN  
-- **Databases**: ChromaDB, Firebase, MySQL  
+- **Databases**: ChromaDB, Firebase, MySQL , MongoDB , SupaBase
 - **Tools**: Git, Docker, Postman, VS Code, n8n , Make , VoiceFlow
-- **Others**: Selenium, Power BI
+- **Others**: Selenium, Power BI , Puppeteer 
 
 
 ## 📊 GitHub Stats
