@@ -22,9 +22,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MANASMATHUR&theme=tokyonight&hide_border=true)
 
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANASMATHUR&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Manas's GitHub Stats](https://github-readme-stats-git-master.mrkhor.github.io/api?username=MANASMATHUR&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANASMATHUR&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-git-master.mrkhor.github.io/api/top-langs/?username=MANASMATHUR&layout=compact&theme=tokyonight)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MANASMATHUR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
 
