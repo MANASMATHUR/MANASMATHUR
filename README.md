@@ -24,9 +24,11 @@
 
 ![Manas's GitHub Stats](https://github-readme-stats-git-master.mrkhor.github.io/api?username=MANASMATHUR&show_icons=true&theme=tokyonight)
 
+![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MANASMATHUR&show_icons=true)
+
 ![Top Languages](https://github-readme-stats-git-master.mrkhor.github.io/api/top-langs/?username=MANASMATHUR&layout=compact&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MANASMATHUR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
+
 
 
 
