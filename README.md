@@ -24,7 +24,6 @@
 
 
 
-![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MANASMATHUR&show_icons=true)
 
 
 
