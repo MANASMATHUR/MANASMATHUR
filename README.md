@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MANASMATHUR&theme=tokyonight&hide_border=true)
+
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MANASMATHUR?cardType=github&theme=onedark&preferLogin=false)](https://git.io/awesome-stats-card)
 
