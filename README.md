@@ -15,7 +15,7 @@
 - **Frontend**: React.js, TailwindCSS, ShadCN  
 - **Databases**: ChromaDB, Firebase, MySQL , MongoDB , SupaBase
 - **Tools**: Git, Docker, Postman, VS Code, n8n , Make , VoiceFlow
-- **Others**: Selenium, Power BI , Puppeteer 
+- **Others**: Selenium, Power BI , Puppeteer, CUDA
 
 
 ## 📊 GitHub Stats
