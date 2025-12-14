@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 👀 Interested in building real-world application
+- 👀 Interested in building real-world applications
 - 🌱 Currently learning and building with **Agentic AI and MCP Servers**  
 - 💞️ Open to collaborating on open source projects
 
