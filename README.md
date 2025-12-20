@@ -21,8 +21,8 @@
 ## 📊 GitHub Stats
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANASMATHUR&show_icons=true&theme=onedark)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MANASMATHUR?cardType=github&theme=onedark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 
