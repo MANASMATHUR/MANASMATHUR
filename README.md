@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/MANASMATHUR?style=for-the-badge&label=Commits%20(Last%20Year)&color=blue"/>
   <img src="https://img.shields.io/github/stars/MANASMATHUR?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/github/followers/MANASMATHUR?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/commit-activity/y/MANASMATHUR?style=for-the-badge"/>
 </p>
 
 
