@@ -25,6 +25,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MANASMATHUR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MANASMATHUR&theme=onedark&no-frame=true&row=1&column=6" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANASMATHUR&theme=tokyo-night&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MANASMATHUR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANASMATHUR&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANASMATHUR&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+
+
 
 
 
