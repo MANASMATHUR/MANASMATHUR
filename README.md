@@ -21,16 +21,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANASMATHUR&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MANASMATHUR&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://img.shields.io/badge/GitHub-Manas%20Mathur-181717?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANASMATHUR&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANASMATHUR&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANASMATHUR&theme=tokyo-night&hide_border=true"/>
+  <img src="https://img.shields.io/github/stars/MANASMATHUR?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/followers/MANASMATHUR?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/commit-activity/y/MANASMATHUR?style=for-the-badge"/>
 </p>
 
 
