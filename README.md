@@ -23,12 +23,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Manas%20Mathur-181717?style=for-the-badge&logo=github" />
 </p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=MANASMATHUR&theme=synthwave&cache_seconds=86400)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANASMATHUR&theme=tokyo-night&hide_border=true" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MANASMATHUR)
+
 
 
 
