@@ -28,7 +28,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANASMATHUR&theme=tokyo-night&hide_border=true" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MANASMATHUR&theme=noctis-minimus" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MANASMATHUR)](https://git.io/streak-stats)
 
 
 
