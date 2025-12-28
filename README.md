@@ -29,7 +29,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANASMATHUR&theme=tokyo-night&hide_border=true" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=manasmathur&cache_seconds=3600&v=6)
 
 
 
