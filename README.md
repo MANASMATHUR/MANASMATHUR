@@ -17,11 +17,9 @@
 - **Tools**: Git, Docker, Postman, VS Code, n8n , Make , VoiceFlow
 - **Others**: Selenium, Power BI , Puppeteer, CUDA(GPU Acceleration)
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Progress+is+a+function+of+consistency%2C+not+motivation."
-    alt="Typing SVG"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Progress%20is%20a%20function%20of%20consistency,%20not%20motivation.&fontSize=20&fontAlign=50&animation=fadeIn" />
 </p>
+
 
 
 ## 📊 GitHub Stats
