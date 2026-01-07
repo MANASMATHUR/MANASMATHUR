@@ -16,6 +16,12 @@
 - **Databases**: ChromaDB, Firebase, MySQL , MongoDB , SupaBase
 - **Tools**: Git, Docker, Postman, VS Code, n8n , Make , VoiceFlow
 - **Others**: Selenium, Power BI , Puppeteer, CUDA(GPU Acceleration)
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Progress+is+a+function+of+consistency%2C+not+motivation."
+    alt="Typing SVG"
+  />
+</p>
 
 
 ## 📊 GitHub Stats
