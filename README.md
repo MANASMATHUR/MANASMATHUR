@@ -12,8 +12,8 @@
 - **Languages**: Java , Python, SQL, JavaScript , TypeScript
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, HuggingFace Transformers  
 - **Frameworks**: LangChain, CrewAI, Next.js, Node.js 
-- **Frontend**: React.js, TailwindCSS, ShadCN  
-- **Databases**: ChromaDB, Firebase, MySQL , MongoDB , SupaBase
+- **Frontend**: React.js, TailwindCSS, ShadCN , GSAP
+- **Databases**: ChromaDB, MySQL , MongoDB , SupaBase
 - **Tools**: Git, Docker, Postman, VS Code, n8n , Make , VoiceFlow
 - **Others**: Selenium, Power BI , Puppeteer, CUDA(GPU Acceleration)
 <p align="center">
