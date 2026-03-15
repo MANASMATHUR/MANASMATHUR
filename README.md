@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 👀 Interested in building real-world applications
-- 🌱 Currently learning and building with **Agentic Workflows**  
+- 🌱 Currently learning and building with **Agentic Workflow**  
 - 💞️ Open to collaborating on open source projects
 
 
